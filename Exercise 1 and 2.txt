@@ -1,0 +1,23 @@
+Exercise 1 – Find the Maximum
+Algorithm Maximum (a, b)
+    Read a, b
+    If a > b then
+        max ← a
+    Else
+        max ← b
+    EndIf
+    Write max
+EndAlgorithm
+
+Exercise 2 – Check Consecutive Numbers
+Algorithm Consecutive (a, b)
+    Read a, b
+    If a + 1 = b OR b + 1 = a then
+        Write 0
+    Else
+        Write 1
+    EndIf
+EndAlgorithm
+
+
+-
